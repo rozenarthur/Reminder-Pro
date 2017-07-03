@@ -8,6 +8,7 @@
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.5",
     "redux": "^3.7.1",
+    "sfcookies": "^1.0.2",
     "webpack": "^3.0.0",
     "yarn": "^0.24.5"
   },
